@@ -1,0 +1,2 @@
+interface UIMenuFieldElement extends UIElement {
+}
